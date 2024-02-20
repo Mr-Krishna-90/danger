@@ -44,7 +44,7 @@ Warning 🚦 This Virus Formates (Deletes) Full Internal Storage So think and Us
 ```
 ## USAGE OPTIONS [Termux] :
 
-__INFECT__ :
+__DANGER__ :
 - From this option you will get link of virus in your termux just send that link to your victim and let the fun happen.
 
 __SAVE__ :
@@ -60,8 +60,8 @@ __EXIT__ :
 
 <br>
 <p align="center">
-<img width="50%" src="https://user-images.githubusercontent.com/49580304/96560925-c32d5880-1273-11eb-99e6-f6c85fa00783.jpg"/>
-<img width="46%" src="https://user-images.githubusercontent.com/49580304/96560932-c4f71c00-1273-11eb-98d5-78210392ad54.jpg"/>
+<img width="50%" src="[https://t.me/c/2083982024/200]"/>
+<img width="46%" src="[https://t.me/c/2083982024/199]"/>
 </p>
 
 ### If there is an issue in this tool, report [here](https://github.com/Mr_Krishna_90
