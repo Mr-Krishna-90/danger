@@ -56,14 +56,6 @@ __UPDATE__ :
 __EXIT__ :
 - From this option you can exit from infect tool 
 
-## SCREEN SHOTS [Termux]
-
-<br>
-<p align="center">
-<img width="50%" src="[https://t.me/c/2083982024/200]"/>
-<img width="46%" src="[https://t.me/c/2083982024/199]"/>
-</p>
-
 ### If there is an issue in this tool, report [here](https://github.com/Mr_Krishna_90
 /I_Picker/issues)
 
